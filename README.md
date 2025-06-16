@@ -8,3 +8,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2376780283/2376780283/output/github-contribution-grid-snake.svg">
 </picture>
 </p>
+
+<p>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2376780283&show_icons=true&theme=cobalt&count_private=true"/>
+</p>
