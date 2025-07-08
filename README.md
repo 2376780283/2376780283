@@ -33,8 +33,9 @@
    </td>
 
    <!-- Right Column -->
-   <td width="60%" valign="top">
-   
+<!-- Right Column -->
+<td width="60%" valign="top">
+
 ### 🧰 Tech Stack
 
 <p>
@@ -46,36 +47,45 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
+<hr/>
+
 ### 📊 GitHub Stats
 
-<p>
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2376780283&theme=nord_bright" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=2376780283&theme=tokyonight&hide_border=true" />
-</p>
-<p>
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2376780283&theme=nord_bright" />
-</p>
-<p>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2376780283&show_icons=true&theme=cobalt&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2376780283&layout=compact&theme=tokyonight" />
-</p>
-
-### ⏱ Most Active Time
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2376780283&theme=nord_bright&utcOffset=8" />
-
-   </td>
+<!-- 统计卡片对齐为左右两列 -->
+<table>
+  <tr>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2376780283&theme=nord_bright" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=2376780283&theme=tokyonight&hide_border=true" width="100%"/>
+    </td>
   </tr>
 </table>
 
----
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2376780283/2376780283/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2376780283/2376780283/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2376780283/2376780283/output/github-contribution-grid-snake.svg">
-  </picture>
+<!-- 个人详情卡片整宽展示 -->
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2376780283&theme=nord_bright" width="100%" />
 </p>
+
+<!-- 左右并排显示仓库信息 + 最常用语言 -->
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2376780283&show_icons=true&theme=cobalt&count_private=true" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2376780283&layout=compact&theme=tokyonight" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+### ⏱ Most Active Time
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2376780283&theme=nord_bright&utcOffset=8" width="100%"/>
+</p>
+
+</td>
