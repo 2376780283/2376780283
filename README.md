@@ -7,6 +7,7 @@
 <table>
   <tr>
     <td width="40%" valign="top">        
+      
 ### 👤 About Me
 - 🔭 Working on cool stuff  
 - 🌱 Learning **AI / Algorithms / System Design**  
