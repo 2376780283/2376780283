@@ -31,16 +31,17 @@
 </p>
 
 <p>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2376780283&theme=nord_bright" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2376780283&show_icons=true&theme=cobalt&count_private=true"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=2376780283&theme=tokyonight&hide_border=true" />
 </p>
 <p>
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2376780283&theme=nord_bright" />
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=2376780283&theme=tokyonight&hide_border=true" />
+
 </p>
 <p>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2376780283&show_icons=true&theme=cobalt&count_private=true"/>
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2376780283&theme=nord_bright" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2376780283&layout=compact&theme=tokyonight" />
 </p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2376780283&theme=nord_bright&utcOffset=8" />
