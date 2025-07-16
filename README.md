@@ -9,8 +9,8 @@
     <td width="40%" valign="top">        
       
 ### 👤 About Me
-- 🔭 <a><img src="https://img.shields.io/badge/Working_OnCoolStuff-blue"/></a> 
-- 🌱 Learning **AI / Algorithms / System Design**  
+- 🔭 <a><img src="https://img.shields.io/badge/Working_On_Cool_Stuff-blue"/></a> 
+- 🌱 <a><img src="https://img.shields.io/badge/Learning_System_Design /></a> 
 - ⚡ Love clean terminal setups  
 - 📫 Reach me: [2376780283@qq.com](mailto:2376780283@qq.com)  
 
