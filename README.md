@@ -44,7 +44,6 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2376780283&theme=nord_bright" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2376780283&layout=compact&theme=tokyonight" />
 </p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2376780283&theme=nord_bright&utcOffset=8" />
    </td>
   </tr>
 </table>
