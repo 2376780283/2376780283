@@ -26,19 +26,18 @@
    </td>
    <td width="60%" valign="top">
 <p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
 <p>
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2376780283&theme=nord_bright" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2376780283&theme=nord_bright" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=2376780283&theme=tokyonight&hide_border=true" />
 </p>
 <p>
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2376780283&theme=nord_bright" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=2376780283&theme=tokyonight&hide_border=true" />
 </p>
 <p>
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2376780283&show_icons=true&theme=cobalt&count_private=true"/>
