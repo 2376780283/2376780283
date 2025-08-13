@@ -8,21 +8,21 @@
   <tr>
     <td width="40%" valign="top">        
       
-### 👤 About Me
+#### 👤 About Me
 - 🔭 <a><img src="https://img.shields.io/badge/Working_On_Cool_Stuff-blue"/></a> 
 - 🌱 Learning_System_Design
 - ⚡ Love clean terminal setups  
-- 📫 Reach me: [2376780283@qq.com](mailto:2376780283@qq.com)  
 
-### 🧠 Fun Facts
+#### 🧠 Fun Facts
 
 - 🐧 Linux fan
 - 💡 Automation geek
 - 🎯 Focused on clean code
 
-### 📫 Connect
+#### 📫 Connect
 <a href="https://github.com/2376780283"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><br>
 <a href="mailto:2376780283@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
    </td>
    <td width="60%" valign="top">
 <p>  
