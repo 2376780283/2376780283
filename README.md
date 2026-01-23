@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZZHのLife</h1>
 <p align="center">
   <a href="https://github.com/2376780283">
+    <img src="https://count.getloli.com/get/@SsageParuders?theme=gelbooru" alt="Visited By" />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Passionate+Developer;Open+Source+Enthusiast;Love+Clean+Code+%26+Automation" alt="Typing SVG" />
   </a>
 </p>
